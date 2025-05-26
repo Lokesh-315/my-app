@@ -8,7 +8,7 @@ const About = () => {
 
             </div>
             <div className="content">
-                <h2>About</h2>
+                <h2>About ss</h2>
                 <p>We are a company that values innovation and customer satisfaction. Our mission is to provide the best services in the industry.</p>
                 <a href="#contact" className="btn">Contact Us</a>
             </div>
